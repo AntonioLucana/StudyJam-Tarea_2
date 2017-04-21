@@ -1,0 +1,129 @@
+
+# Creado por https://www.gitignore.io/api/androidstudio
+
+### Android Studio ###
+# Covers archivos a ser ignorados para el desarrollo de Android con Android Studio.
+
+# archivos de aplicaciones incorporadas
+* .apk
+* .ap_
+
+# Archivos para el arte / máquina virtual Dalvik
+* .dex
+
+# archivos de clase Java
+*.clase
+
+# Los archivos generados
+compartimiento/
+GEN /
+fuera/
+
+archivos # Gradle
+.gradle
+.gradle /
+construir/
+
+# archivos de firma
+.firma/
+
+# Archivo de configuración local (ruta SDK, etc.)
+local.properties
+
+carpeta # Proguard generada por Eclipse
+Proguard /
+
+# Archivos de registro
+*.Iniciar sesión
+
+# Android Studio
+/*/construir/
+/*/local.properties
+/*/fuera
+/*/*/construir
+/*/*/producción
+capturas /
+.navegación/
+* .ipr
+* ~
+* .swp
+
+# Patch Android
+Gen-externos-apklibs
+
+# Externa carpeta de compilación nativa genera en Android Studio 2.2 y posteriores
+.externalNativeBuild
+
+# NDK
+obj /
+
+# IntelliJ IDEA
+* .iml
+* .iws
+/fuera/
+
+# configuraciones específicas del usuario
+.idea / bibliotecas /
+.idea / workspace.xml
+.idea / tasks.xml
+.idea / .name
+.idea / compiler.xml
+.idea / copyright / profiles_settings.xml
+.idea / encodings.xml
+.idea / misc.xml
+.idea / modules.xml
+.idea / ámbitos / scope_settings.xml
+.idea / diccionarios
+.idea / vcs.xml
+.idea / jsLibraryMappings.xml
+.idea / datasources.xml
+.idea / dataSources.ids
+.idea / sqlDataSources.xml
+.idea / dynamic.xml
+.idea / uiDesigner.xml
+
+# archivos de almacén de claves
+* .jks
+
+# archivos específicos de OS
+.DS_Store
+.DS_Store?
+._ *
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.DB
+
+archivos de proyecto # Legado Eclipse
+.classpath
+.proyecto
+
+# Herramientas móviles para Java (J2ME)
+.mtj.tmp /
+
+# # Paquete de archivos
+*.tarro
+*.guerra
+*.oreja
+
+# Registros de errores de máquina virtual (Referencia: http://www.java.com/en/download/help/error_hotspot.xml)
+hs_err_pid *
+
+## archivos en complementos específicos:
+
+# Mpeltonen / SBT-idea plug-in
+.idea_modules /
+
+# Plugin de JIRA
+atlassian-ide-plugin.xml
+
+Plugin # Mongo Explorador
+.idea / mongoSettings.xml
+
+# Crashlytics plug-in (para Android Studio y IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Fin de https://www.gitignore.io/api/androidstudio

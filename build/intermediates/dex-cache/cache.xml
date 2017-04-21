@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Android instalador\SJ_A_1_17_ListView_Custom-master 2\Calculadora\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="316ebf0fe3f3405a8d781ff7198f47420f0169f1">
+        <dex dex="F:\Android instalador\SJ_A_1_17_ListView_Custom-master 2\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ff3a1db1a64916b673fe6d4b52d490396cc9bad0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android instalador\SJ_A_1_17_ListView_Custom-master 2\Calculadora\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="F:\Android instalador\SJ_A_1_17_ListView_Custom-master 2\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6959feb25cf807cbed949f88602ed86908793d3b\classes.dex" />
+    </item>
+
+</items>
