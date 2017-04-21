@@ -14,7 +14,7 @@ hacemos la copia del interfaz grafica de una aplicacion movil.
 
 Para probar este ejemplo clona este repositorio de la siguiente forma:
 >
->     $ git clone
+>     $ git clone https://github.com/AntonioLucana/StudyJam-Tarea_2.git
 
 Dentro de Android Studio:
 
